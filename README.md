@@ -3,7 +3,7 @@
 
 
 ## About Me
-I'm a recent graduate in [Your Degree] from [Your University], with a passion for unlocking insights from data and driving decision-making through machine learning and data analysis. My journey in data science began during my academic years, where I honed my skills in Python, R, and SQL, and developed a strong foundation in statistics and machine learning.
+I'm a recent graduate with master’s degree in data science, with a passion for unlocking insights from data and driving decision-making through machine learning and data analysis. My journey in data science began during my academic years, where I honed my skills in Python, R, and SQL, and developed a strong foundation in statistics and machine learning.
 
 ## Skills
 - **Programming Languages:** Python, SQL
