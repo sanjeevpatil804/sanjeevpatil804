@@ -15,9 +15,10 @@ I'm a recent graduate with master’s degree in data science, with a passion for
 
 ## Projects
 During my course, I worked on various projects which are showcased in my repositories. Here are a few highlights:
-- **Predictive Modeling for Retail Sales:** Utilized regression models to forecast sales, achieving an 85% accuracy.
+- Generative AI - ** Utilized StackGan for text to image generation using CUB dataset. Devloped WGAN model for face generation using CelebA dataset.
+- **Predictive Modeling for House price:** Utilized regression models to forecast saling price, achieving an 85% accuracy.
 - **Sentiment Analysis on Social Media Text:** Developed a NLP model to analyze customer sentiments on Twitter data.
-- **Data Visualization Dashboard:** Created an interactive dashboard using Tableau to visualize COVID-19 trends.
+- **Data Visualization Dashboard:** Created an interactive dashboard using Tableau to visualize bitcoin trends, Estcy shops trends etc.
 
 
 
