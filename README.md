@@ -34,9 +34,6 @@
 |---|---|---|
 | [🔐 Phishing Website Detection](https://github.com/sanjeevpatil804) | XGBoost, FastAPI, MongoDB, Docker, AWS | **97% F1-score**, REST API, CI/CD via GitHub Actions |
 | [🏨 Hotel Reservation Cancellation Prediction](https://github.com/sanjeevpatil804) | XGBoost, Python, Docker, AWS | **90% F1-score**, end-to-end MLOps pipeline |
-| [⚡ Berlin Electricity Forecasting](https://github.com/sanjeevpatil804) | Time Series, Python | Demand forecasting with feature engineering |
-| [🖐️ Real-time Sign Language Translation](https://github.com/sanjeevpatil804) | OpenCV, PyTorch, NLP | CV + NLP hybrid real-time application |
-
 ---
 
 ## 🛠️ Tech Stack
@@ -53,7 +50,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-**MLOps & DevOps**
+**MLOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
