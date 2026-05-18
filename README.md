@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-Early-career **Data Scientist** with hands-on experience building **end-to-end ML systems** deployed on AWS using Docker & CI/CD pipelines. M.Sc. Data Science (University of Europe for Applied Sciences, Berlin). Passionate about **NLP**, **Computer Vision**, and **production-ready ML engineering**.
+**Data Scientist** with hands-on experience building **end-to-end ML systems** deployed on AWS using Docker & CI/CD pipelines. M.Sc. Data Science (University of Europe for Applied Sciences, Berlin). Passionate about **NLP**, **Computer Vision**, and **production-ready ML engineering**.
 
 - 🔭 Currently building: **Berlin Electricity Forecasting** & **Real-time Sign Language Translation**
 - 🌱 Learning: **LLM fine-tuning**, **Agentic AI systems**, **Advanced PyTorch**
