@@ -66,7 +66,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
 
 **Visualization & Analytics**
 
@@ -75,30 +75,13 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjeevpatil804&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevpatil804&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeevpatil804&theme=tokyonight&hide_border=true" width="55%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjeevpatil804&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
 
 ## 🎓 Education & Certifications
 
-- 🎓 **M.Sc. Data Science** — University of Europe for Applied Sciences, Berlin (2022–2023)
-- 🎓 **B.E. Electronics Engineering** — University of Mumbai (2011–2017)
-- 📜 Generative AI & GANs Bootcamp
-- 📜 Computer Vision with PyTorch & TensorFlow
-- 📜 IBM Generative AI — Language Modeling with Transformers
+- 🎓 **M.Sc. Data Science** — University of Europe for Applied Sciences, Berlin 
+- 🎓 **B.E. Electronics Engineering** — University of Mumbai 
+
 
 ---
 
