@@ -28,13 +28,6 @@
 
 ---
 
-## 🏗️ Featured Projects
-
-| Project | Tech Stack | Highlights |
-|---|---|---|
-| [🔐 Phishing Website Detection](https://github.com/sanjeevpatil804) | XGBoost, FastAPI, MongoDB, Docker, AWS | **97% F1-score**, REST API, CI/CD via GitHub Actions |
-| [🏨 Hotel Reservation Cancellation Prediction](https://github.com/sanjeevpatil804) | XGBoost, Python, Docker, AWS | **90% F1-score**, end-to-end MLOps pipeline |
----
 
 ## 🛠️ Tech Stack
 
